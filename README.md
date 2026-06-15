@@ -83,20 +83,6 @@ The ball and plate system is a small control platform, but the same concepts are
 -Time domain response analysis
 -Motion control tuning
 
-## Suggested Repository Structure
-
-```text
-/images
-  pid-function-block.png
-  sequential-logic-chart.png
-  filter-trend.png
-
-/docs
-  project-report.pdf
-
-README.md
-```
-
 ## Demonstration
 https://github.com/user-attachments/assets/a3c445cc-3417-42ad-9d3d-6311deef0579
 
