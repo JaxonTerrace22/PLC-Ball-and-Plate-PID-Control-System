@@ -34,6 +34,17 @@ A low-pass filter was added to smooth the control signal before sending it to th
 
 The setpoints were managed using sequential control logic. Instead of holding one fixed target, the controller stepped through a sequence of ball positions and then rolled the system back to center.
 
+## Project Images
+
+### PID Function Block Logic
+![PID Function Block](images/pid-function-block.png)
+
+### Sequential Logic Chart
+![Sequential Logic Chart](images/sequential-logic-chart.png)
+
+### Low-Pass Filter Trend
+![Filter Trend](images/filter-trend.png)
+
 ## Performance Results
 
 The final system was able to guide the ball through the required setpoints while keeping stable motions and strong response times..
