@@ -97,6 +97,9 @@ The ball and plate system is a small control platform, but the same concepts are
 README.md
 ```
 
+## Demonstration
+https://github.com/user-attachments/assets/a3c445cc-3417-42ad-9d3d-6311deef0579
+
 ## Future Improvements
 
 Possible improvements for this project include:
