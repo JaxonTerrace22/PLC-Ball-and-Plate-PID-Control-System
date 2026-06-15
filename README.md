@@ -107,3 +107,7 @@ Possible improvements for this project include:
 -Adding disturbance rejection testing
 -Improving visualization of ball path over time
 -Logging setpoint and position data for deeper analysis
+
+## Full Technical Report
+
+[View the full technical report](docs/technical-report.pdf)
